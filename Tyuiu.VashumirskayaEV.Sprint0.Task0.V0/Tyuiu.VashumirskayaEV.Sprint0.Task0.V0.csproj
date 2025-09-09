@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{69150266-DF85-4246-92F7-AF42ECB3384E}</ProjectGuid>
+    <ProjectGuid>{0C2EFF56-A0AC-4118-9338-E57012BF40C9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.Vashumirskaya.Sprint0.Task0.V0</RootNamespace>
-    <AssemblyName>Tyuiu.Vashumirskaya.Sprint0.Task0.V0</AssemblyName>
+    <RootNamespace>Tyuiu.VashumirskayaEV.Sprint0.Task0.V0</RootNamespace>
+    <AssemblyName>Tyuiu.VashumirskayaEV.Sprint0.Task0.V0</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
